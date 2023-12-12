@@ -45,7 +45,7 @@ public static class UriBuilderExtensions
 public class UriQuery
 {
     private readonly Uri _uri;
-
+    
     public UriQuery(Uri uri)
     {
         _uri = uri;
