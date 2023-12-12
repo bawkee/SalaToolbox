@@ -1,6 +1,8 @@
 # SalaTools 🧰
 Bojan Sala's dotNet toolbox of various extensions and utilities that can be used in any app, library or service.
 
+[![NuGet](https://img.shields.io/nuget/v/SalaTools.Core)](https://www.nuget.org/packages/SalaTools.Core/1.0.0)
+
 Some of the tools included:
 
 - ArgumentBasedMemoize - Easy memoization of any class without a hassle, extremely lightweight and flexible. Great for small apps and services with limited lifetime.
